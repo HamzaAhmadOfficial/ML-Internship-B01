@@ -1,0 +1,2 @@
+Day 1:
+Learned Git clone, add, commit, push.
