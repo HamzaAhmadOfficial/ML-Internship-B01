@@ -36,12 +36,11 @@ This task helped me understand real-world collaboration using Git and GitHub.
 1. [Project Description](#project-description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Screenshots](#screenshots)
-5. [Technologies Used](#technologies-used)
-6. [Weekly Progress](#weekly-progress)
-7. [External Resources](#external-resources)
-8. [License](#license)
-9. [Contact](#contact)
+4. [Technologies Used](#technologies-used)
+5. [Weekly Progress](#weekly-progress)
+6. [External Resources](#external-resources)
+7. [License](#license)
+8. [Contact](#contact)
 
 ---
 
@@ -91,17 +90,6 @@ log_entry("Completed Task 1.4 README.md Mastery")
 
 ---
 
-## Screenshots
-### Project Folder Structure
-![Project Structure](screenshots/project_structure.png)
-
-### Sample Output
-![Sample Output](screenshots/sample_output.png)
-
-> *Ensure you have a `screenshots/` folder in your repo and replace these images with actual screenshots.*
-
----
-
 ## Technologies Used
 | Technology    | Version/Notes |
 |---------------|---------------|
@@ -116,10 +104,10 @@ log_entry("Completed Task 1.4 README.md Mastery")
 ## Weekly Progress
 | Week | Task | Status |
 |------|------|--------|
-| 1    | Task 1.1 - GitHub Account Setup & Basic Commands | ✅ Completed |
-| 1    | Task 1.2 - Branching & Merging Practice | ✅ Completed |
-| 1    | Task 1.3 - Collaborative GitHub Workflow | ✅ Completed |
-| 1    | Task 1.4 - README.md Mastery | 🔄 In Progress |
+| 1    | Task 1.1 - GitHub Account Setup & Basic Commands |  Completed |
+| 1    | Task 1.2 - Branching & Merging Practice |  Completed |
+| 1    | Task 1.3 - Collaborative GitHub Workflow |  Completed |
+| 1    | Task 1.4 - README.md Mastery | Completed |
 
 ---
 
@@ -140,4 +128,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Hamza Ahmad**  
 - Email: hamzaahmad8149@gmail.com  
 - GitHub: [HamzaAhmadOfficial](https://github.com/HamzaAhmadOfficial)  
-- LinkedIn: [Hamza Ahmad](https://www.linkedin.com/in/hamza-ahmad/)
+- LinkedIn: [Hamza Ahmad](https://www.linkedin.com/in/hamza-ahmad-a07a5a30b/)
