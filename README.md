@@ -72,43 +72,72 @@ env\Scripts\activate      # Windows
 
 # Install required packages
 pip install -r requirements.txt
+```
 
+---
+
+## Usage
+Here’s an example of how to use the scripts in this project:
+
+```python
+# Example: Run a Python script
+python week1_task.py
+
+# Example: Import and use a function
+from learning_log import log_entry
+
+log_entry("Completed Task 1.4 README.md Mastery")
+```
+
+---
+
+## Screenshots
+### Project Folder Structure
+![Project Structure](screenshots/project_structure.png)
+
+### Sample Output
+![Sample Output](screenshots/sample_output.png)
+
+> *Ensure you have a `screenshots/` folder in your repo and replace these images with actual screenshots.*
+
+---
 
 ## Technologies Used
+| Technology    | Version/Notes |
+|---------------|---------------|
+| Python        | 3.11          |
+| Git           | Latest        |
+| GitHub        | Latest        |
+| Markdown      | N/A           |
+| VS Code       | Recommended   |
 
-| Technology | Version/Notes |
-| ---------- | ------------- |
-| Python     | 3.11          |
-| Git        | Latest        |
-| GitHub     | Latest        |
-| Markdown   | N/A           |
-| VS Code    | Recommended   |
+---
 
+## Weekly Progress
+| Week | Task | Status |
+|------|------|--------|
+| 1    | Task 1.1 - GitHub Account Setup & Basic Commands | ✅ Completed |
+| 1    | Task 1.2 - Branching & Merging Practice | ✅ Completed |
+| 1    | Task 1.3 - Collaborative GitHub Workflow | ✅ Completed |
+| 1    | Task 1.4 - README.md Mastery | 🔄 In Progress |
 
+---
 
 ## External Resources
+- [Python Documentation](https://docs.python.org/3/)  
+- [Git Documentation](https://git-scm.com/doc)  
+- [Markdown Guide](https://www.markdownguide.org/)  
+- [Shields.io for Badges](https://shields.io/)  
 
-Python Documentation
-
-Git Documentation
-
-Markdown Guide
-
-Shields.io for Badges
-
+---
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
-
+---
 
 ## Contact
-
-Hamza Ahmad
-
-Email: hamzaahmad8149@gmail.com
-
-GitHub: HamzaAhmadOfficial
-
-LinkedIn: Hamza Ahmad
+**Hamza Ahmad**  
+- Email: hamzaahmad8149@gmail.com  
+- GitHub: [HamzaAhmadOfficial](https://github.com/HamzaAhmadOfficial)  
+- LinkedIn: [Hamza Ahmad](https://www.linkedin.com/in/hamza-ahmad/)
